@@ -15,7 +15,7 @@ function App({ signOut }) {
         <div className="App">
             <Card>
                 <img src={logo} className="App-logo" alt="logo" />
-                <Heading level={1}>We now have Auth! testing version 2</Heading>
+                <Heading level={1}>We now have Auth! testing version 3</Heading>
             </Card>
             <Button onClick={signOut}>Sign Out</Button>
         </div>
