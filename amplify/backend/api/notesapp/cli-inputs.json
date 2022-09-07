@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "notesapp",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-09-14T17:14:55.970Z",
+      "keyDescription": "demo"
+    }
+  }
+}
